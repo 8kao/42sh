@@ -1,6 +1,6 @@
 # 42sh - Epitech Project
 
-**A minimalist yet powerful Unix shell written in C.**  
+A minimalist Unix shell written in C. 
 This project is part of the Epitech curriculum and aims to recreate a fully functional command-line shell environment.
 
 ---
